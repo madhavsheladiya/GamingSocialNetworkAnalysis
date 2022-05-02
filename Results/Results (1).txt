@@ -1,0 +1,87 @@
+#PUBG Before : 
+	- Degree : Max = 53, Min = 1, Avg = 2
+[1] "Density : "
+[1] 0.003087923
+[1] "Betweenness Centrality : "
+[1] 170521749
+[1] "Closeness Centrality: "
+[1] 698.0014
+[1] "Degree Centrality: "
+[1] 487902
+[1] "EigenVector Centrality: "
+[1] 698
+
+
+#PUBG After
+	- Degree : Max = 65, Min = 1, Avg = 2.5
+
+[1] "Density : "
+[1] 0.003244928
+[1] "Betweenness Centrality : "
+[1] 861122999
+[1] "Closeness Centrality: "
+[1] 1198.001
+[1] "Degree Centrality: "
+[1] 1436402
+[1] "EigenVector Centrality: "
+[1] 1198
+
+#Gaming Before : 
+	- Degree : Max = 17, Min = 1, Avg = 1.75
+
+[1] "Density : "
+[1] 0.0008068512
+[1] "Betweenness Centrality : "
+[1] 254721999
+[1] "Closeness Centrality: "
+[1] 798.0013
+[1] "Degree Centrality: "
+[1] 637602
+[1] "EigenVector Centrality: "
+[1] 798
+
+
+#Gaming After : 
+	- Degree : Max = 59, Min = 1, Avg = 3.5
+
+[1] "Density : "
+[1] 0.0007292663
+[1] "Betweenness Centrality : "
+[1] 1683003749
+[1] "Closeness Centrality: "
+[1] 1498.001
+[1] "Degree Centrality: "
+[1] 2245502
+[1] "EigenVector Centrality: "
+[1] 1498
+
+
+#CSGO Before: 
+	- Degree : Max = 23, Min = 1, Avg = 1.875
+
+[1] "Density : "
+[1] 0.002392244
+[1] "Betweenness Centrality : "
+[1] 170521749
+[1] "Closeness Centrality: "
+[1] 698.0014
+[1] "Degree Centrality: "
+[1] 487902
+[1] "EigenVector Centrality: "
+[1] 698
+
+
+
+#CSGO After: 
+	- Degree : Max = 37, Min = 1, Avg = 3
+
+[1] "Density : "
+[1] 0.002504792
+[1] "Betweenness Centrality : "
+[1] 498002499
+[1] "Closeness Centrality: "
+[1] 998.001
+[1] "Degree Centrality: "
+[1] 997002
+[1] "EigenVector Centrality: "
+[1] 998
